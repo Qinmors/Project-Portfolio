@@ -72,4 +72,4 @@ Description: This video documents the utilities of the DNS service, DHCP service
 
 
 ##Current Objectives
-Pursuing CCNA for the summer semester of 2026/2027 Academic Year
+Pursuing CCNA for the summer semester of 2026/2027 Academic Year something
