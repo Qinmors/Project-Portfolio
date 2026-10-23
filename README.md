@@ -70,3 +70,6 @@ Description: This video documents the utilities of the DNS service, DHCP service
 ## Basic Networking at Cisco NetAcademy
 <img width="260" height="260" alt="networking-basics" src="https://github.com/user-attachments/assets/615ad093-79f3-42be-9491-91abe2bf0ec4" />
 
+
+##Current Objectives
+Pursuing CCNA for the summer semester of 2026/2027 Academic Year something
